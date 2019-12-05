@@ -1,6 +1,8 @@
 ---
 title: "Paper Title Number 2"
 excerpt: "Paper Title Number 2"
+permalink: /publications/paper1
+
 categories:
   - publication
 tag:
