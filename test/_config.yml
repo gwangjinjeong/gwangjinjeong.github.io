@@ -287,31 +287,27 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _recipes
   - scope:
       path: ""
-      type: teaching
+      type: recipes
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-      
-  # _publications
+  # _pets
   - scope:
       path: ""
-      type: publications
+      type: pets
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-
-  # _talks
+  # _portfolio
   - scope:
       path: ""
-      type: talks
+      type: portfolio
     values:
-      layout: talk
-      author_profile: true
+      layout: single
+      author_profile: false
       share: true
