@@ -1,11 +1,8 @@
 ---
 title: "Publications"
-layout: categories
 permalink: /publications/
+layout: category
 author_profile: true
 taxonomy: publication
 ---
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+# publicated paper
