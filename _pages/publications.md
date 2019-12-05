@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /categories/publication/
-layout: archive
+layout: category
 author_profile: true
 taxonomy: publication
 ---
