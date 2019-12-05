@@ -1,8 +1,7 @@
 ---
 title: "Publications"
-permalink: /categories/publications/
+permalink: /categories/publication/
 layout: archive
 author_profile: true
 taxonomy: publication
 ---
-# publicated paper
