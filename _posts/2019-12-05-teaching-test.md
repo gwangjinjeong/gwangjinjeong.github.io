@@ -1,6 +1,6 @@
 ---
-title: "teaching test page"
-excerpt: "뭐지이건"
+title: "Teaching test page"
+excerpt: "이것은 Teaching 테스트 페이지입니다."
 header:
   teaser: /assets/images/bio-photo-keyboard.jpg
 categories:
