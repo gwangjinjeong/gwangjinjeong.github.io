@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 excerpt: "Paper Title Number 2"
 categories:
-  - Publication
+  - publication
 tag:
   - sucess
   - sucess
