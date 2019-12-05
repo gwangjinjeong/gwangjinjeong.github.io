@@ -6,6 +6,10 @@ main:
     url: /cv/
   - title: "Publications"
     url: /categories/publication/
+  - title: "talk"
+    url: /categories/talk/
+  - title: "teaching"
+    url: /categories/teaching/
   - title: "Categories"
     url: /categories/
   - title: "Tags"

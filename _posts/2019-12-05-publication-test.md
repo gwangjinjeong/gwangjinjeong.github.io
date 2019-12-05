@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Publication test page"
 excerpt: "Paper Title Number 1"
-
+header:
+  teaser: /assets/images/bio-photo-keyboard.jpg
 categories:
   - publication
 tag:
-  - diffuse optic
-  - DNN
+  - test page
 last_modified_at: 2019-12-15T08:06:00-05:00
   
 ---
