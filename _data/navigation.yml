@@ -6,9 +6,9 @@ main:
     url: /cv/
   - title: "Publications"
     url: /categories/publication/
-  - title: "talk"
+  - title: "Talk"
     url: /categories/talk/
-  - title: "teaching"
+  - title: "Teaching"
     url: /categories/teaching/
   - title: "Categories"
     url: /categories/
