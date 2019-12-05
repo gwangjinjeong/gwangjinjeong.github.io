@@ -2,7 +2,7 @@
 title: "Paper Title Number 1"
 excerpt: "Paper Title Number 1"
 categories:
-  - Publication
+  - publication
 tag:
   - diffuse optic
   - DNN
