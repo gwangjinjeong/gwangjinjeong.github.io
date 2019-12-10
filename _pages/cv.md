@@ -11,7 +11,7 @@ Education
 * M.S. in Medical optics, Dankook University, 2019~
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 
-Work experience
+Work experience 
 ======
 * Summer 2015: Research Assistant
   * Github University
