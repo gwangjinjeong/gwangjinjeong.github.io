@@ -22,8 +22,13 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 	``` git
 	openssl req -x509 -nodes -days 1000 -newkey rsa:1024 -keyout mycert.pem -out mycert.pem
 	```
--  확인한 위치에서 my
+-  확인한 위치에서 mycert.pem을 가지고 오기
+- `jupyter_notebook_config.py`를 열어서 아래의 내용을 입력.
+	``` python
+	c.NotebookApp.certfile ='C:/mycert.pem가 있는 절대 경로'
+	```
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzkyODA2MywtOTQ3NDA1OTc1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbNDc0NTQ1MzAsLTk0NzQwNTk3NSw3MzA5OT
+gxMTZdfQ==
 -->
