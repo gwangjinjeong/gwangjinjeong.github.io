@@ -28,20 +28,20 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 4. openssl for 보안
 	- git bash 열기
 	- ```pwd```로 현재 위치 확인
-	``` git
-	openssl req -x509 -nodes -days 1000 -newkey rsa:1024 -keyout mycert.pem -out mycert.pem
-	```
+		``` python
+		openssl req -x509 -nodes -days 1000 -newkey rsa:1024 -keyout mycert.pem -out mycert.pem
+		```
 	-  확인한 위치에서 mycert.pem을 가지고 와서 적절한 폴더에 넣기
-	- `jupyter_notebook_config.py`를 열어서 아래의 내용을 입력.
-			``` python
+	- `jupyter_notebook_config.py`를 열어서 아래의 내용을 입력.   
+		``` python
 		c.NotebookApp.certfile ="C:/mycert.pem가 있는 절대 경로"
-	```
+	```   
 6. 
 
 
 참조 페이지
 - [주피터 노트북 공식 페이지](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTUzMjc3Miw0NzQ1NDUzMCwtOTQ3ND
+eyJoaXN0b3J5IjpbLTk0NDE3MjA3Niw0NzQ1NDUzMCwtOTQ3ND
 A1OTc1LDczMDk5ODExNl19
 -->
