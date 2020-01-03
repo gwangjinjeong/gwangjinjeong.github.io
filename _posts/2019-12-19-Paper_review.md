@@ -36,12 +36,11 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 		``` python
 		c.NotebookApp.certfile ="C:/mycert.pem가 있는 절대 경로"
 	```   
-6. 
 
 
 참조 페이지
 - [주피터 노트북 공식 페이지](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDE3MjA3Niw0NzQ1NDUzMCwtOTQ3ND
+eyJoaXN0b3J5IjpbMTIxNzgwMDAzNCw0NzQ1NDUzMCwtOTQ3ND
 A1OTc1LDczMDk5ODExNl19
 -->
