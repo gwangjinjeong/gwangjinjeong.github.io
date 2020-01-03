@@ -17,10 +17,13 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 1. anaconda 실행
 2. 코드 입력
 	``` cmd
-	 jupyter notebook password
-	 ```
+$ jupyter notebook password
+Enter password:  ****
+Verify password: ****
+[NotebookPasswordApp] Wrote hashed password to /Users/you/.jupyter/jupyter_notebook_config.json	 ```
 3.  시작 위치 변경 for 보안
-4. openssl for 보안
+	- [https://wonderbout.tistory.com/50](https://wonderbout.tistory.com/50)
+5. openssl for 보안
 	- git bash 열기
 	- ```pwd```로 현재 위치 확인
 	``` git
@@ -31,12 +34,12 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 	``` python
 	c.NotebookApp.certfile ="C:/mycert.pem가 있는 절대 경로"
 	```
-5. 
+6. 
 
 
 참조 페이지
-[주피터 노트북 공식 페이지](https://testnb.readthedocs.io/en/stable/examples/Notebook/Configuring%20the%20Notebook%20and%20Server.html)
+- [주피터 노트북 공식 페이지](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTQwMjUwNyw0NzQ1NDUzMCwtOTQ3ND
-A1OTc1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzkxNjY4ODI1LDQ3NDU0NTMwLC05NDc0MD
+U5NzUsNzMwOTk4MTE2XX0=
 -->
