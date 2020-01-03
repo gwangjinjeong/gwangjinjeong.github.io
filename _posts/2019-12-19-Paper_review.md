@@ -16,8 +16,14 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 	 jupyter notebook password
 	 ```
 3.  시작 위치 변경 for 보안
-4. ss
+4. openssl for 보안
+- git bash 열기
+- ```pwd```로 현재 위치 확인
+	``` git
+	openssl req -x509 -nodes -days 1000 -newkey rsa:1024 -keyout mycert.pem -out mycert.pem
+	```
+-  확인한 위치에서 my
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzUwNTk1MCwtOTQ3NDA1OTc1LDczMD
+eyJoaXN0b3J5IjpbMTc2NzkyODA2MywtOTQ3NDA1OTc1LDczMD
 k5ODExNl19
 -->
