@@ -13,7 +13,7 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 0. 만약에 iptime과 같은 공유기에 연결되어 있는 경우.    
 	- iptime 관리자 페이지 들어가서
 	- 포드포워딩   
-		- 서버로 ㅅ 
+		- 서버로 사용할 컴퓨터 ip주소, 포트(8888이 기본) 
 1. anaconda 실행
 2. 코드 입력
 	``` cmd
@@ -32,7 +32,11 @@ last_modified_at: 2020-01-03T12:00:00-05:00
 	c.NotebookApp.certfile ="C:/mycert.pem가 있는 절대 경로"
 	```
 5. 
+
+
+참조 페이지
+[주피터 노트북 공식 페이지](https://testnb.readthedocs.io/en/stable/examples/Notebook/Configuring%20the%20Notebook%20and%20Server.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODYzNTMzNyw0NzQ1NDUzMCwtOTQ3ND
+eyJoaXN0b3J5IjpbMTIyMTQwMjUwNyw0NzQ1NDUzMCwtOTQ3ND
 A1OTc1LDczMDk5ODExNl19
 -->
