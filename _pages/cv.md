@@ -33,41 +33,41 @@ The Korea Catholic Univ, 2018 Social Innovation Award, The Top Excellence award 
 
 Hoseo University, [Inventions and Startups Competition](http://www.hoseojys.co.kr/), The Participation prize (18.9.19)
 
-Leadership and service
+Leadership and service   
 ======
 
 <!--## Academic and Professional
 
 [**MIT Microbiome Club**](http://microbiome.mit.edu/get-involved/#club), *co-Founder*, *President* (2015-2016), *Executive board member* (2016-2018)
 
-## Departmental and MIT
+## Departmental and MIT   
 **Graduate Student Council Diversity and Inclusion Subcommittee**, *Vice Chair and Department and Classroom Inclusion co-coordinator* (2017-2019)    
 
 In this role, I coordinated and oversaw semesterly conduit assemblies, which bring together diversity representatives from all MIT departments.
-## Mentorship
+## Mentorship   
 
 [**Insight Health Data Science Fellows**](https://www.insighthealthdata.com/), Supervised two data science fellows (Sep-Oct 2019).
-## Outreach
+## Outreach   
 
 [**Science Club for Girls**](http://www.scienceclubforgirls.org/) [Young leaders in STEM program](http://www.scienceclubforgirls.org/teen-programs-overview) (Summer 2016 and 2017). Developed and taught three-day course on microbiology and the human microbiome.
 ## Reviewer 
 
 I serve as a peer-reviewer in my field. A subset of my peer reviews can be found on my [Publons profile](https://publons.com/researcher/3183036/claire-duvallet/).
 --!>
-Extracurriculars
+Extracurriculars   
 ======
 
-[**Big Data Specialist Course**](http://ksp.multicampus.com/ksp/servlet/controller.gate.common.GateConstServlet?p_process=select-iFrame&p_grcode=000002&p_menucd=M0415&p_frameUrl=http://ksp.multicampus.com/multicam/contents/common/GB_EdList_02.html), (Summer 2018)
+[**Big Data Specialist Course**](http://ksp.multicampus.com/ksp/servlet/controller.gate.common.GateConstServlet?p_process=select-iFrame&p_grcode=000002&p_menucd=M0415&p_frameUrl=http://ksp.multicampus.com/multicam/contents/common/GB_EdList_02.html), (Summer 2018)    
 
-[**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning),(2019-2020)
+[**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning),(2019-2020)   
 
 ***
 
-Presentations
-=====
-## Oral presentations
+Presentations   
+=====   
+## Oral presentations   
 
-Project
+Project   
 ======
 ###  Data analytics
 1. Prediction of movie audience numbers
