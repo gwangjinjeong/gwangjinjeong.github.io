@@ -7,9 +7,13 @@ author_profile: true
 
 Education
 ======
-* B.S. in Computer Science, The Catholic University of Korea , 2019
-* M.S. in Medical optics, Dankook University, 2019~
+* B.S. in Computer Science, The Catholic University of Korea , 2019.2
+* M.S. in Biomedical optics, Dankook University, 2019.9~
 <!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
+
+Strengths
+======
+
 
 Work experience 
 ======
