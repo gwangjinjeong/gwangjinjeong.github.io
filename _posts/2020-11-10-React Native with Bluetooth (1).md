@@ -1,13 +1,13 @@
 ---
-title:  "(1) Setup"
+title:  "(1) Initialization"
 excerpt: "앱만들기 위한 기초 지식 "
 header:
   teaser: /assets/images/bio-photo-keyboard.jpg
 categories:
-  - React
+  - React_native
 tags:
-  - initiation
-  - react
+  - Bluetooth
+  - React_native
 last_modified_at: 2020-11-10T12:00:00-05:00
 ---
 ##0. 환경설정   
@@ -34,5 +34,5 @@ npm -v
 4. expo start
 5. QR코드 인식후 실행
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzMzNjY4OF19
+eyJoaXN0b3J5IjpbNDk0NzEwMDA5XX0=
 -->
