@@ -1,6 +1,6 @@
 ---
-title:  "(1) Initialization"
-excerpt: "앱만들기 위한 기초 지식 "
+title:  "React Native with Bluetooth (1) 환경설정"
+excerpt: "Environment setting "
 header:
   teaser: /assets/images/bio-photo-keyboard.jpg
 categories:
@@ -14,7 +14,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 * iPhone 8
 * Windows 10
 * Visual Code
-
+# React development setting
 ## 1. Visual code 설치
 
 ## 2. 핸드폰에 Expo client 설치
@@ -34,5 +34,5 @@ npm -v
 4. expo start
 5. QR코드 인식후 실행
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0NzEwMDA5XX0=
+eyJoaXN0b3J5IjpbLTExODA2MzEyODcsNDk0NzEwMDA5XX0=
 -->
