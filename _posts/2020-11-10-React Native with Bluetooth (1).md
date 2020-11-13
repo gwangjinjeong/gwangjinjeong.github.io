@@ -16,8 +16,9 @@ App
 \- Windows 10
 \- Visual Code
 Bluetooth
-\- BLE Module: nRF51822
+\- BLE Module: [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)
 \- MCU: STM32F103
+\- 
 
 # React
 ## 1. Visual code 설치
@@ -44,5 +45,5 @@ QR코드 인식후 실행
 # Bluetooth
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA1MjE1OSw0OTQ3MTAwMDldfQ==
+eyJoaXN0b3J5IjpbMjE4NDQ2NTk2LDQ5NDcxMDAwOV19
 -->
