@@ -21,11 +21,11 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 \- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)
 
 ## 1. React
-## 1. Visual code 설치
-Editor는 Visual code로 사용
-## 2. 핸드폰에 Expo client 설치
+### 1. Visual code 설치
+ Editor는 Visual code로 사용
+### 2. 핸드폰에 Expo client 설치
 핸드폰에 시뮬레이션을 돌리기 위한 예물레이터 
-## 3. npm 설치
+### 3. npm 설치
 https://nodejs.org/en/
 확인시,
 ```cmd
@@ -33,7 +33,7 @@ node -v
 npm -v
 로 확인가능
 ```
-## 4. expo 설치
+### 4. expo 설치
 ```cmd
 npm install --global expo-cli
 expo init [AppName]
@@ -44,7 +44,8 @@ QR코드 인식후 실행
 
 # Bluetooth
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MjMwNTQwLDEyNjI0NTgxNDYsNDk0Nz
-EwMDA5XX0=
+eyJoaXN0b3J5IjpbLTQ1NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5ND
+cxMDAwOV19
 -->
