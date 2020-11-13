@@ -1,6 +1,6 @@
 ---
 title:  "React Native with Bluetooth (1) 환경설정"
-excerpt: "Environment setting "
+excerpt: "Setup Development Environment "
 header:
   teaser: /assets/images/bio-photo-keyboard.jpg
 categories:
@@ -10,11 +10,13 @@ tags:
   - React_native
 last_modified_at: 2020-11-10T12:00:00-05:00
 ---
-##0. 환경설정   
-* iPhone 8
-* Windows 10
-* Visual Code
-# React - Setup Development Environment
+##0. Preparation   
+App 
+\- iPhone 8
+\- Windows 10
+\Visual Code
+
+# React
 ## 1. Visual code 설치
 Editor는 Visual code로 사용
 ## 2. 핸드폰에 Expo client 설치
@@ -29,8 +31,15 @@ npm -v
 ```
 ## 4. expo 설치
 ```cmd
+npm install --global expo-cli
+expo init [AppName]
+cd [AppName]
+expo start
+QR코드 인식후 실행
 ```
 
+# Bluetooth
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0ODQ2NzkwLDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbNDk4OTA2MjQxLDQ5NDcxMDAwOV19
 -->
