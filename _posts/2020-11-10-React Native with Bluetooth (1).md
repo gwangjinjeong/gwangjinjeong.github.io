@@ -17,7 +17,7 @@ App
 \- Visual Code
 Bluetooth
 \- BLE Module: [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)
-\- MCU: STM32F103
+\- MCU: [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)
 \- 
 
 # React
@@ -45,5 +45,5 @@ QR코드 인식후 실행
 # Bluetooth
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NDQ2NTk2LDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
 -->
