@@ -14,7 +14,10 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 App 
 \- iPhone 8
 \- Windows 10
-\Visual Code
+\- Visual Code
+Bluetooth
+\- BLE Module: nRF51822
+\- MCU: STM32F103
 
 # React
 ## 1. Visual code 설치
@@ -41,5 +44,5 @@ QR코드 인식후 실행
 # Bluetooth
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4OTA2MjQxLDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbLTEwMDA1MjE1OSw0OTQ3MTAwMDldfQ==
 -->
