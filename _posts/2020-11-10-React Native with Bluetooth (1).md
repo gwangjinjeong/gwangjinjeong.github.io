@@ -53,7 +53,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 -   Dart라는 언어를 처음부터 공부해야한다.
 <hr>
 
-위의 장단점이 존재한다. 
+위의 장단점이 존재한다.  하지만 여러 개발자들의 의견에 따르면 물론 React가 크로스 플랫폼 시장에서 1위를 하고 있는 것은 사실이나, 
 
 ## 1. React
 ### 1. Visual code 설치
@@ -82,7 +82,7 @@ QR코드 인식후 실행
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLT
-E5NjU1MTM0MTYsLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0
-NTgxNDYsNDk0NzEwMDA5XX0=
+eyJoaXN0b3J5IjpbLTE0NTEyOTg3NzEsLTIwMjQ4NzAyMzIsLT
+IxMzQyNzk2MjgsLTE5NjU1MTM0MTYsLTkxODI4NDM3MCwtNDU1
+OTIxNzEyLDEyNjI0NTgxNDYsNDk0NzEwMDA5XX0=
 -->
