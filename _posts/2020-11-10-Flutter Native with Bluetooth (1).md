@@ -12,15 +12,8 @@ tags:
 last_modified_at: 2020-11-10T12:00:00-05:00
 ---
 ## 0. Preparation   
-### (1) Environment
-**App**
-\- iPhone 8    
-\- Windows 10   
-\- Visual Code   
-**Bluetooth**   
-\- BLE Module: [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)  
-\- MCU: [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)   
-\- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)   
+
+
 
 ### (2) 언어 선택   
 #### ReactNative의 장점    
@@ -61,5 +54,6 @@ https://bigstar-vlog.tistory.com/66
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk5Mzk2ODQsMTI5MDU3MzczNF19
+eyJoaXN0b3J5IjpbLTIwNDU2NDQ3MDQsLTE3NDk5Mzk2ODQsMT
+I5MDU3MzczNF19
 -->
