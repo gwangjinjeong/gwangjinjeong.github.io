@@ -21,14 +21,13 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 \- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)
 
 <hr>
+
 **ReactNative의 장점**
 
 -  Facebook의 지원  
-- JavaScript와 React를 안다면 쉽게 개발할 수 있다.
+-  JavaScript기반이기에 front-end와 back-end(Node.js) 앱을 모두 개발할 수 ㅣㅇ
 -   npm 지원.
--   함수형 프로그래밍
 -   Expo를 사용
-
 **ReactNative의 단점**
 -   하드웨워 혹은 커스터마이징 혹은 카메라 등 하드한 작업을 하기에는 무리다.
 -   네비게이션, 이미지 확대 등 간단한 기능도 모두 라이브러리에 의존해야한다.
@@ -36,18 +35,13 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 <hr>
 
 **Flutter의 장점**
-
--   Google의 지원이 엄청 빵빵하다.
--   객체지향 프로그래밍 스타일이다. (Case By Case)
--   네비게이션, 카메라 등 Flutter 안에서 모든걸 제공해준다.
--   문서가 매우 잘 정리되어있다. (강의 영상 제공 by Google)
+-   Google의 지원
+-   네비게이션, 카메라 등 기능 제공해준다.
+-   문서가 매우 잘 정리되어있다. 
 
 **Flutter의 단점**
-
--   Google이 갑자기 Flutter를 언제 죽일지 걱정해야한다.
--   모든 Flutter 앱은 구글앱처럼 생겼다. 물론 아이폰도 마찬가지이다.
--   쉽게 구현할 수 있는건 어렵게 해놓고, 어렵게 구현할 수 있는것은 쉽게 해놓았다.(RN 개발자 시점)
 -   Dart라는 언어를 처음부터 공부해야한다.
+- 
 <hr>
 출처: https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/
 
@@ -102,9 +96,9 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDUyMTU2MiwtMTAzNjEwMDQ5MCw1Nj
-cyODY3NDIsMjAzMzIwOTMwLDEwMTQ5MzYxMTYsLTEzNzIxNDY3
-MDIsLTE1MTA0MzUzODUsMTAxNjYyMDE2NSwtMjAyNDg3MDIzMi
-wtMjEzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4Mjg0MzcwLC00
-NTU5MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
+eyJoaXN0b3J5IjpbMzU0ODQ3MTkzLC0xMDM2MTAwNDkwLDU2Nz
+I4Njc0MiwyMDMzMjA5MzAsMTAxNDkzNjExNiwtMTM3MjE0Njcw
+MiwtMTUxMDQzNTM4NSwxMDE2NjIwMTY1LC0yMDI0ODcwMjMyLC
+0yMTM0Mjc5NjI4LC0xOTY1NTEzNDE2LC05MTgyODQzNzAsLTQ1
+NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5NDcxMDAwOV19
 -->
