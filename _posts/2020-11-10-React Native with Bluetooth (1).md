@@ -11,6 +11,7 @@ tags:
 last_modified_at: 2020-11-10T12:00:00-05:00
 ---
 ## 0. Preparation   
+### (1) Environment
 **App**
 \- iPhone 8
 \- Windows 10
@@ -20,26 +21,21 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 \- MCU: [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)
 \- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)
 
-<hr>
-
-**ReactNative의 장점**
-
+### (2) 언어 선택   
+#### ReactNative의 장점 
 -  Facebook의 지원  
 -  JavaScript기반이기에 front-end와 back-end(Node.js) 앱을 모두 쉽게 개발할 수 있다.
 -   npm 지원.
 -   Expo를 사용
-**ReactNative의 단점**
+#### ReactNative의 단점
 -   하드웨워 혹은 커스터마이징 혹은 카메라 등 하드한 작업을 하기에는 무리다.
 -   네비게이션, 이미지 확대 등 간단한 기능도 모두 라이브러리에 의존해야한다.
 -   오류가 난다면 고치기가 힘들다. 즉 오픈소스에 의지해야하니 오류 잡기가 힘들다.
-<hr>
-
-**Flutter의 장점**
+####  Flutter의 장점
 -   Google의 지원
 -   네비게이션, 카메라 등 기능 제공해준다.
 -   문서가 매우 잘 정리되어있다. 
-
-**Flutter의 단점**
+####Flutter의 단점
 -   Dart라는 언어를 처음부터 공부해야한다.
 - 
 <hr>
@@ -94,10 +90,10 @@ https://bigstar-vlog.tistory.com/66
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NTE3ODYxLDc4MjU4Mzg5MywtMTAzNj
-EwMDQ5MCw1NjcyODY3NDIsMjAzMzIwOTMwLDEwMTQ5MzYxMTYs
-LTEzNzIxNDY3MDIsLTE1MTA0MzUzODUsMTAxNjYyMDE2NSwtMj
-AyNDg3MDIzMiwtMjEzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4
-Mjg0MzcwLC00NTU5MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMD
-ldfQ==
+eyJoaXN0b3J5IjpbMTkxOTAwNDI1Niw3ODI1ODM4OTMsLTEwMz
+YxMDA0OTAsNTY3Mjg2NzQyLDIwMzMyMDkzMCwxMDE0OTM2MTE2
+LC0xMzcyMTQ2NzAyLC0xNTEwNDM1Mzg1LDEwMTY2MjAxNjUsLT
+IwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLTE5NjU1MTM0MTYsLTkx
+ODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0NTgxNDYsNDk0NzEwMD
+A5XX0=
 -->
