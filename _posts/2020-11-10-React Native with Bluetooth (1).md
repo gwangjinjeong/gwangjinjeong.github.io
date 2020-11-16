@@ -54,8 +54,10 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 <hr>
 출처: https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/
 
-위의 장단점이 존재한다.  하지만 여러 개발자들의 의견에 따르면 물론 React가 크로스 플랫폼 시장에서 1위를 하고 있는 것은 사실이나,  유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재한다 하였다. 
-미연에 방지하기 위해서 React에서 Flutter로 미리 도망(?)치기로 하였다.
+위의 장단점이 존재한다.  하지만 여러 개발자들의 의견에 따르면 물론 React가 크로스 플랫폼 시장에서 1위를 하고 있는 것은 사실이나,  유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재한다.
+하지만, 한편으론 Reac
+ 
+
 <details>
     <summary>
     <h2> 1. React <br></h2>
@@ -101,9 +103,9 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzIwOTMwLDEwMTQ5MzYxMTYsLTEzNz
-IxNDY3MDIsLTE1MTA0MzUzODUsMTAxNjYyMDE2NSwtMjAyNDg3
-MDIzMiwtMjEzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4Mjg0Mz
-cwLC00NTU5MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
-
+eyJoaXN0b3J5IjpbLTc4ODgzNDU5NiwyMDMzMjA5MzAsMTAxND
+kzNjExNiwtMTM3MjE0NjcwMiwtMTUxMDQzNTM4NSwxMDE2NjIw
+MTY1LC0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC0xOTY1NTEzND
+E2LC05MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5
+NDcxMDAwOV19
 -->
