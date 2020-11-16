@@ -53,7 +53,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 -   Dart라는 언어를 처음부터 공부해야한다.
 <hr>
 
-위의 장단점이 존재하지만, 결국 Server와 
+위의 장단점이 존재한다. 
 
 ## 1. React
 ### 1. Visual code 설치
@@ -82,7 +82,7 @@ QR코드 인식후 실행
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQyNzk2MjgsLTE5NjU1MTM0MTYsLT
-kxODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0NTgxNDYsNDk0NzEw
-MDA5XX0=
+eyJoaXN0b3J5IjpbLTIwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLT
+E5NjU1MTM0MTYsLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0
+NTgxNDYsNDk0NzEwMDA5XX0=
 -->
