@@ -83,7 +83,7 @@ https://flutter-ko.dev/docs/get-started/install/windows
 **Checklist**
 \-  Android Toolchain
 \- Android Studio Flutter plugin 
-\- Dart plugin
+\- Android Studio Dart plugin
 \- VS Code Fltter extension
 
 ### Window 개발환경 설정
@@ -94,9 +94,10 @@ https://bigstar-vlog.tistory.com/66
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNTgzODkzLC0xMDM2MTAwNDkwLDU2Nz
-I4Njc0MiwyMDMzMjA5MzAsMTAxNDkzNjExNiwtMTM3MjE0Njcw
-MiwtMTUxMDQzNTM4NSwxMDE2NjIwMTY1LC0yMDI0ODcwMjMyLC
-0yMTM0Mjc5NjI4LC0xOTY1NTEzNDE2LC05MTgyODQzNzAsLTQ1
-NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbMTQ0NDQzNTY2OCw3ODI1ODM4OTMsLTEwMz
+YxMDA0OTAsNTY3Mjg2NzQyLDIwMzMyMDkzMCwxMDE0OTM2MTE2
+LC0xMzcyMTQ2NzAyLC0xNTEwNDM1Mzg1LDEwMTY2MjAxNjUsLT
+IwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLTE5NjU1MTM0MTYsLTkx
+ODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0NTgxNDYsNDk0NzEwMD
+A5XX0=
 -->
