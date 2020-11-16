@@ -83,18 +83,21 @@ QR코드 인식후 실행
     </summary>
 </details>
 
-#Flutter
-1. 설치
+## Flutter
+### 1. 설치
 https://flutter-ko.dev/docs/get-started/install/windows
-가장 간편한 google의 
+간편하게 google의 멋진 doccument를 이용하자.
+### 2. 개발환경 세팅
+#### (1) Flutter with VScode
 
+#### (2) Flutter with Android Studio
 
-# Bluetooth
+## Bluetooth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTg0NDEyMywtMTUxMDQzNTM4NSwxMD
-E2NjIwMTY1LC0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC0xOTY1
-NTEzNDE2LC05MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYyNDU4MT
-Q2LDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbLTEzNzIxNDY3MDIsLTE1MTA0MzUzODUsMT
+AxNjYyMDE2NSwtMjAyNDg3MDIzMiwtMjEzNDI3OTYyOCwtMTk2
+NTUxMzQxNiwtOTE4Mjg0MzcwLC00NTU5MjE3MTIsMTI2MjQ1OD
+E0Niw0OTQ3MTAwMDldfQ==
 -->
