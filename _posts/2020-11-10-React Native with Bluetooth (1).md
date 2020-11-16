@@ -56,7 +56,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 
 위처럼 장단점이 존재한다. 먼저, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
 React의 경우 버전이 바뀔수록 라이브러리간 호환성으로 인해 유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재하다는 단점이 존재하지만 Faceboock의 지원에 점유율 1위로 가장 높고 Javascript 기반이기 때문에 Front-end는 react.js, backe-end는 node.js, 앱은 react-native로 이용할 수가 있다.
-Flutter의 경우 Google의 지원을 받고 있는
+Flutter의 경우 Google의 지원을 받고 있으며, 수요량이 해가 갈수록 증가하고 있다. 그리고 성능이나 유지보수 측면에서 좀더 
  
 
 <details>
@@ -104,9 +104,9 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3Mjg2NzQyLDIwMzMyMDkzMCwxMDE0OT
-M2MTE2LC0xMzcyMTQ2NzAyLC0xNTEwNDM1Mzg1LDEwMTY2MjAx
-NjUsLTIwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLTE5NjU1MTM0MT
-YsLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0NTgxNDYsNDk0
-NzEwMDA5XX0=
+eyJoaXN0b3J5IjpbNzk2ODI2MjE4LDU2NzI4Njc0MiwyMDMzMj
+A5MzAsMTAxNDkzNjExNiwtMTM3MjE0NjcwMiwtMTUxMDQzNTM4
+NSwxMDE2NjIwMTY1LC0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC
+0xOTY1NTEzNDE2LC05MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYy
+NDU4MTQ2LDQ5NDcxMDAwOV19
 -->
