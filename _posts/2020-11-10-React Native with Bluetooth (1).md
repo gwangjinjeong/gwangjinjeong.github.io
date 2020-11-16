@@ -54,7 +54,9 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 <hr>
 출처: https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/
 
-위의 장단점이 존재한다.  하지만 여러 개발자들의 의견에 따르면 물론 React가 크로스 플랫폼 시장에서 1위를 하고 있는 것은 사실이나,  유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재한다.
+위처럼 장단점이 존재한다. 두가지 주요 쟁점중에서 고민중인데, 만들고자 하는 소프트웨어가
+블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는 방식이다.
+유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재한다.
 하지만, 한편으론 Reac
  
 
@@ -103,7 +105,7 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODgzNDU5NiwyMDMzMjA5MzAsMTAxND
+eyJoaXN0b3J5IjpbLTk3MTQyMTk2OSwyMDMzMjA5MzAsMTAxND
 kzNjExNiwtMTM3MjE0NjcwMiwtMTUxMDQzNTM4NSwxMDE2NjIw
 MTY1LC0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC0xOTY1NTEzND
 E2LC05MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5
