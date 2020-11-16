@@ -13,24 +13,24 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 ## 0. Preparation   
 ### (1) Environment
 **App**
-\- iPhone 8
-\- Windows 10
-\- Visual Code
-**Bluetooth**
-\- BLE Module: [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)
-\- MCU: [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)
-\- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)
+\- iPhone 8    
+\- Windows 10   
+\- Visual Code   
+**Bluetooth**   
+\- BLE Module: [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822)  
+\- MCU: [STM32F103](https://www.st.com/en/microcontrollers-microprocessors/stm32f103.html)   
+\- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)   
 
 ### (2) 언어 선택   
-#### ReactNative의 장점 
--  Facebook의 지원  
--  JavaScript기반이기에 front-end와 back-end(Node.js) 앱을 모두 쉽게 개발할 수 있다.
--   npm 지원.
--   Expo를 사용
-#### ReactNative의 단점
--   하드웨워 혹은 커스터마이징 혹은 카메라 등 하드한 작업을 하기에는 무리다.
--   네비게이션, 이미지 확대 등 간단한 기능도 모두 라이브러리에 의존해야한다.
--   오류가 난다면 고치기가 힘들다. 즉 오픈소스에 의지해야하니 오류 잡기가 힘들다.
+#### ReactNative의 장점    
+-  Facebook의 지원    
+-  JavaScript기반이기에 front-end와 back-end(Node.js) 앱을 모두 쉽게 개발할 수 있다.   
+-   npm 지원   
+-   Expo를 사용  
+#### ReactNative의 단점   
+-   파일시스템, 카메라 등 하드한 작업을 하기에는 무리다.   
+-   네비게이션, 이미지 확대 등 간단한 기능도 모두 라이브러리에 의존해야한다.   
+-   오류가 난다면 고치기가 힘들다. 즉 오픈소스에 의지해야하니 오류 잡기가 힘들다.   
 ####  Flutter의 장점
 -   Google의 지원
 -   네비게이션, 카메라 등 기능 제공해준다.
@@ -61,5 +61,5 @@ https://bigstar-vlog.tistory.com/66
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYwMTcwMzldfQ==
+eyJoaXN0b3J5IjpbMTU3MDU3NzY4NF19
 -->
