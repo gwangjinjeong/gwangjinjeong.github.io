@@ -56,12 +56,13 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 
 위의 장단점이 존재한다.  하지만 여러 개발자들의 의견에 따르면 물론 React가 크로스 플랫폼 시장에서 1위를 하고 있는 것은 사실이나,  유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재한다 하였다. 
 미연에 방지하기 위해서 React에서 Flutter로 미리 도망(?)치기로 하였다.
-~~
-## 1. React
-### 1. Visual code 설치
- Editor는 Visual code로 사용
-### 2. 핸드폰에 Expo client 설치
-핸드폰에 시뮬레이션을 돌리기 위한 예물레이터 
+<details>
+    <summary>
+    <h2> 1. React <br></h2>
+    <h3> 1. Visual code 설치</h3>
+ <p> Editor는 Visual code로 사용</p>
+ <h3> 2. 핸드폰에 Expo client 설치
+<p>핸드폰에 시뮬레이션을 돌리기 위한 예물레이터 
 ### 3. npm 설치
 https://nodejs.org/en/
 확인시,
@@ -78,13 +79,18 @@ cd [AppName]
 expo start
 QR코드 인식후 실행
 ```
-~~
+    </summary>
+</deatils>
+
+
+
+
 
 # Bluetooth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgwNTg5NTAsLTE1MTA0MzUzODUsMT
+eyJoaXN0b3J5IjpbLTEzMjQ2OTc2NzAsLTE1MTA0MzUzODUsMT
 AxNjYyMDE2NSwtMjAyNDg3MDIzMiwtMjEzNDI3OTYyOCwtMTk2
 NTUxMzQxNiwtOTE4Mjg0MzcwLC00NTU5MjE3MTIsMTI2MjQ1OD
 E0Niw0OTQ3MTAwMDldfQ==
