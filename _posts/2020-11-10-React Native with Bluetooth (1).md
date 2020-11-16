@@ -1,5 +1,5 @@
 ---
-title:  "React Native with Bluetooth (1) 환경설정"
+title:  "Flutter with Bluetooth (1) 환경설정"
 excerpt: "Setup Development Environment "
 header:
   teaser: /assets/images/bio-photo-keyboard.jpg
@@ -43,33 +43,6 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 위처럼 장단점이 존재한다. 먼저, 목표부터 보자면, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
 Flutter의 경우 Bluetooth 혹은 File System에 접근하기에 오픈소스에 의존해야하는 React Native보다 Flutter에서 제공하는 것을 사용할 수 있기 떄문에 Flutter를 사용하기로 한다.
 
-<details>
-    <summary>
-    <h2> 1. React <br></h2>
-    <h3> 1. Visual code 설치</h3>
- <p> Editor는 Visual code로 사용</p>
- <h3> 2. 핸드폰에 Expo client 설치</h3>
-<p>핸드폰에 시뮬레이션을 돌리기 위한 예물레이터</p> 
-<h3> 3. npm 설치</h3>
-<p>https://nodejs.org/en/</p>
-<p>확인시,
-```cmd
-node -v 
-npm -v
-로 확인가능
-```
-</p>
-<h3> 4. expo 설치</h3>
-```cmd
-npm install --global expo-cli
-expo init [AppName]
-cd [AppName]
-expo start
-QR코드 인식후 실행
-```
-    </summary>
-</details>
-
 ## Flutter
 ### 1. Window 개발환경 설정
 https://flutter-ko.dev/docs/get-started/install/windows
@@ -88,10 +61,10 @@ https://bigstar-vlog.tistory.com/66
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzE1Njk0MSw3ODI1ODM4OTMsLTEwMz
-YxMDA0OTAsNTY3Mjg2NzQyLDIwMzMyMDkzMCwxMDE0OTM2MTE2
-LC0xMzcyMTQ2NzAyLC0xNTEwNDM1Mzg1LDEwMTY2MjAxNjUsLT
-IwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLTE5NjU1MTM0MTYsLTkx
-ODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0NTgxNDYsNDk0NzEwMD
-A5XX0=
+eyJoaXN0b3J5IjpbLTExMzYwMTcwMzksNzgyNTgzODkzLC0xMD
+M2MTAwNDkwLDU2NzI4Njc0MiwyMDMzMjA5MzAsMTAxNDkzNjEx
+NiwtMTM3MjE0NjcwMiwtMTUxMDQzNTM4NSwxMDE2NjIwMTY1LC
+0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC0xOTY1NTEzNDE2LC05
+MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5NDcxMD
+AwOV19
 -->
