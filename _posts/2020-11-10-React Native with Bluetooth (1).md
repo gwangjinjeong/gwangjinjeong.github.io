@@ -21,8 +21,8 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 \- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)
 
 절차는 다음과 같이 진행 될것이다.
-먼저, React-native로 빌드를 하고,
-Android의 경우 Android Studio로 빌드하고
+먼저, React-native로 빌드를 하고, code generation
+Android의 경우 Android Studio로 
 iOS의 경우 Xode
 
 ## 1. React
@@ -52,6 +52,6 @@ QR코드 인식후 실행
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDExNDExMSwtNDU1OTIxNzEyLDEyNj
+eyJoaXN0b3J5IjpbLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEyNj
 I0NTgxNDYsNDk0NzEwMDA5XX0=
 -->
