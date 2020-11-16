@@ -21,7 +21,6 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 \- JTAG emulator: [miniJLINK V2.0](https://www.devicemart.co.kr/goods/view?no=33262)
 
 <hr>
-
 **ReactNative의 장점**
 
 -   JavaScript와 React를 안다면 RN을 공부하지 않아도 개발할 수 있다.
@@ -36,7 +35,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 -   네비게이션, 이미지 확대 등 간단한 기능도 지원을 하지 않는다 = 라이브러리를 사용해야한다.
 -   오류가 난다면 고치기가 힘들다. 즉 오픈소스에 의지해야하니 오류 잡기가 힘들다.
 
-----------
+<hr>
 
 **Flutter의 장점**
 
@@ -57,6 +56,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 위처럼 장단점이 존재한다. 먼저, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
 React의 경우 버전이 바뀔수록 라이브러리간 호환성으로 인해 유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재하다는 단점이 존재하지만 Faceboock의 지원에 점유율 1위로 가장 높고 Javascript 기반이기 때문에 Front-end는 react.js, backe-end는 node.js, 앱은 react-native로 이용할 수가 있다.
 Flutter의 경우 Google의 지원을 받고 있으며, 수요량이 해가 갈수록 증가하고 있다. 그리고 성능이나 유지보수 측면에서 좀더 
+괜찮다는 장점이 있어서 Flutter로 선택하기로 하였다
  
 
 <details>
@@ -104,9 +104,9 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2ODI2MjE4LDU2NzI4Njc0MiwyMDMzMj
-A5MzAsMTAxNDkzNjExNiwtMTM3MjE0NjcwMiwtMTUxMDQzNTM4
-NSwxMDE2NjIwMTY1LC0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC
-0xOTY1NTEzNDE2LC05MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYy
-NDU4MTQ2LDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbLTEwMzYxMDA0OTAsNTY3Mjg2NzQyLDIwMz
+MyMDkzMCwxMDE0OTM2MTE2LC0xMzcyMTQ2NzAyLC0xNTEwNDM1
+Mzg1LDEwMTY2MjAxNjUsLTIwMjQ4NzAyMzIsLTIxMzQyNzk2Mj
+gsLTE5NjU1MTM0MTYsLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEy
+NjI0NTgxNDYsNDk0NzEwMDA5XX0=
 -->
