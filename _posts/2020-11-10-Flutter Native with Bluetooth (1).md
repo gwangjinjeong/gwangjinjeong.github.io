@@ -47,19 +47,19 @@ Flutter의 경우 Bluetooth 혹은 File System에 접근하기에 오픈소스�
 ### 1. Window 개발환경 설정
 https://flutter-ko.dev/docs/get-started/install/windows
 간편하게 google의 멋진 doccument를 이용하자.   
-**Checklist**
-\-  Android Toolchain
-\- Android Studio Flutter plugin 
-\- Android Studio Dart plugin
-\- VS Code Flutter extension
-
-### Window 개발환경 설정
-https://bigstar-vlog.tistory.com/66
+**Checklist**   
+\-  Android Toolchain   
+\- Android Studio Flutter plugin    
+\- Android Studio Dart plugin   
+\- VS Code Flutter extension   
+   
+### Window 개발환경 설정   
+https://bigstar-vlog.tistory.com/66   
 참조
 
 ## Bluetooth
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDU3MzczNF19
+eyJoaXN0b3J5IjpbLTE3NDk5Mzk2ODQsMTI5MDU3MzczNF19
 -->
