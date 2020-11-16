@@ -91,7 +91,8 @@ https://flutter-ko.dev/docs/get-started/install/windows
 \-  Android Toolchain
 \- Android Studio Flutter plugin 
 \- Dart plugin
-\- VS   
+\- VS Code Fltter extension
+   
 ### 2. 개발환경 세팅
 #### (1) Flutter with VScode
 
@@ -101,8 +102,8 @@ https://flutter-ko.dev/docs/get-started/install/windows
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUxNTAwNTEsLTEzNzIxNDY3MDIsLT
-E1MTA0MzUzODUsMTAxNjYyMDE2NSwtMjAyNDg3MDIzMiwtMjEz
-NDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4Mjg0MzcwLC00NTU5Mj
-E3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
+eyJoaXN0b3J5IjpbMTAxNDkzNjExNiwtMTM3MjE0NjcwMiwtMT
+UxMDQzNTM4NSwxMDE2NjIwMTY1LC0yMDI0ODcwMjMyLC0yMTM0
+Mjc5NjI4LC0xOTY1NTEzNDE2LC05MTgyODQzNzAsLTQ1NTkyMT
+cxMiwxMjYyNDU4MTQ2LDQ5NDcxMDAwOV19
 -->
