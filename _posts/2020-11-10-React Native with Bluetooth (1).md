@@ -61,17 +61,18 @@ last_modified_at: 2020-11-10T12:00:00-05:00
     <h2> 1. React <br></h2>
     <h3> 1. Visual code 설치</h3>
  <p> Editor는 Visual code로 사용</p>
- <h3> 2. 핸드폰에 Expo client 설치
-<p>핸드폰에 시뮬레이션을 돌리기 위한 예물레이터 
-### 3. npm 설치
-https://nodejs.org/en/
-확인시,
+ <h3> 2. 핸드폰에 Expo client 설치</h3>
+<p>핸드폰에 시뮬레이션을 돌리기 위한 예물레이터</p> 
+<h3> 3. npm 설치</h3>
+<p>https://nodejs.org/en/</p>
+<p>확인시,
 ```cmd
 node -v 
 npm -v
 로 확인가능
 ```
-### 4. expo 설치
+</p>
+<h3> 4. expo 설치</h3>
 ```cmd
 npm install --global expo-cli
 expo init [AppName]
@@ -80,18 +81,20 @@ expo start
 QR코드 인식후 실행
 ```
     </summary>
-</deatils>
+</details>
 
-
-
+#Flutter
+1. 설치
+https://flutter-ko.dev/docs/get-started/install/windows
+가장 간편한 google의 
 
 
 # Bluetooth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ2OTc2NzAsLTE1MTA0MzUzODUsMT
-AxNjYyMDE2NSwtMjAyNDg3MDIzMiwtMjEzNDI3OTYyOCwtMTk2
-NTUxMzQxNiwtOTE4Mjg0MzcwLC00NTU5MjE3MTIsMTI2MjQ1OD
-E0Niw0OTQ3MTAwMDldfQ==
+eyJoaXN0b3J5IjpbLTg3NTg0NDEyMywtMTUxMDQzNTM4NSwxMD
+E2NjIwMTY1LC0yMDI0ODcwMjMyLC0yMTM0Mjc5NjI4LC0xOTY1
+NTEzNDE2LC05MTgyODQzNzAsLTQ1NTkyMTcxMiwxMjYyNDU4MT
+Q2LDQ5NDcxMDAwOV19
 -->
