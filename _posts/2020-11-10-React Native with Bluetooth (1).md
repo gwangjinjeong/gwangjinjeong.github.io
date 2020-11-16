@@ -23,18 +23,16 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 <hr>
 **ReactNative의 장점**
 
--   JavaScript와 React를 안다면 RN을 공부하지 않아도 개발할 수 있다.
--   NPM과 같은 거대한 라이브러리 저장소가 있다.
--   함수형 프로그래밍을 할 수 있다. (Case By Case)
--   Expo를 사용할 수 있다.
+-  Facebook의 지원  
+- JavaScript와 React를 안다면 쉽게 개발할 수 있다.
+-   npm 지원.
+-   함수형 프로그래밍
+-   Expo를 사용
 
 **ReactNative의 단점**
-
--   Facebook에서 ReactNative에 대한 지원을 점점 끊는다.
 -   하드웨워 혹은 커스터마이징 혹은 카메라 등 하드한 작업을 하기에는 무리다.
--   네비게이션, 이미지 확대 등 간단한 기능도 지원을 하지 않는다 = 라이브러리를 사용해야한다.
+-   네비게이션, 이미지 확대 등 간단한 기능도 모두 라이브러리에 의존해야한다.
 -   오류가 난다면 고치기가 힘들다. 즉 오픈소스에 의지해야하니 오류 잡기가 힘들다.
-
 <hr>
 
 **Flutter의 장점**
@@ -104,9 +102,9 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzYxMDA0OTAsNTY3Mjg2NzQyLDIwMz
-MyMDkzMCwxMDE0OTM2MTE2LC0xMzcyMTQ2NzAyLC0xNTEwNDM1
-Mzg1LDEwMTY2MjAxNjUsLTIwMjQ4NzAyMzIsLTIxMzQyNzk2Mj
-gsLTE5NjU1MTM0MTYsLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEy
-NjI0NTgxNDYsNDk0NzEwMDA5XX0=
+eyJoaXN0b3J5IjpbMTg3MDUyMTU2MiwtMTAzNjEwMDQ5MCw1Nj
+cyODY3NDIsMjAzMzIwOTMwLDEwMTQ5MzYxMTYsLTEzNzIxNDY3
+MDIsLTE1MTA0MzUzODUsMTAxNjYyMDE2NSwtMjAyNDg3MDIzMi
+wtMjEzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4Mjg0MzcwLC00
+NTU5MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
 -->
