@@ -35,15 +35,13 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 -   Google의 지원
 -   네비게이션, 카메라 등 기능 제공해준다.
 -   문서가 매우 잘 정리되어있다. 
-####Flutter의 단점
+#### Flutter의 단점
 -   Dart라는 언어를 처음부터 공부해야한다.
-- 
+-  Integration이 좋진 못하다.
 <hr>
 
 위처럼 장단점이 존재한다. 먼저, 목표부터 보자면, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
-Flutter의 경우 Google의 지원을 받고 있으며, 수요량이 해가 갈수록 증가하고 있다. 그리고 성능이나 유지보수 측면에서 좀더 
-괜찮다는 장점이 있어서 Flutter로 선택하기로 하였다
- 
+Flutter의 경우 Bluetooth 혹은 File System에 접근하기에 오픈소스에 의존해야하는 React Native보다 Flutter에서 제공하는 것을 사용할 수 있기 떄문에 Flutter를 사용하기로 한다.
 
 <details>
     <summary>
@@ -90,7 +88,7 @@ https://bigstar-vlog.tistory.com/66
 
 https://github.com/Polidea/FlutterBleLib
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTAwNDI1Niw3ODI1ODM4OTMsLTEwMz
+eyJoaXN0b3J5IjpbMTg2NzE1Njk0MSw3ODI1ODM4OTMsLTEwMz
 YxMDA0OTAsNTY3Mjg2NzQyLDIwMzMyMDkzMCwxMDE0OTM2MTE2
 LC0xMzcyMTQ2NzAyLC0xNTEwNDM1Mzg1LDEwMTY2MjAxNjUsLT
 IwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLTE5NjU1MTM0MTYsLTkx
