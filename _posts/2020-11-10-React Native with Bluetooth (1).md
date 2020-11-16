@@ -25,7 +25,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 **ReactNative의 장점**
 
 -  Facebook의 지원  
--  JavaScript기반이기에 front-end와 back-end(Node.js) 앱을 모두 개발할 수 ㅣㅇ
+-  JavaScript기반이기에 front-end와 back-end(Node.js) 앱을 모두 쉽게 개발할 수 있다.
 -   npm 지원.
 -   Expo를 사용
 **ReactNative의 단점**
@@ -43,10 +43,8 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 -   Dart라는 언어를 처음부터 공부해야한다.
 - 
 <hr>
-출처: https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/
 
-위처럼 장단점이 존재한다. 먼저, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
-React의 경우 버전이 바뀔수록 라이브러리간 호환성으로 인해 유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재하다는 단점이 존재하지만 Faceboock의 지원에 점유율 1위로 가장 높고 Javascript 기반이기 때문에 Front-end는 react.js, backe-end는 node.js, 앱은 react-native로 이용할 수가 있다.
+위처럼 장단점이 존재한다. 먼저, 목표부터 보자면, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
 Flutter의 경우 Google의 지원을 받고 있으며, 수요량이 해가 갈수록 증가하고 있다. 그리고 성능이나 유지보수 측면에서 좀더 
 괜찮다는 장점이 있어서 Flutter로 선택하기로 하였다
  
@@ -96,9 +94,9 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODQ3MTkzLC0xMDM2MTAwNDkwLDU2Nz
-I4Njc0MiwyMDMzMjA5MzAsMTAxNDkzNjExNiwtMTM3MjE0Njcw
-MiwtMTUxMDQzNTM4NSwxMDE2NjIwMTY1LC0yMDI0ODcwMjMyLC
-0yMTM0Mjc5NjI4LC0xOTY1NTEzNDE2LC05MTgyODQzNzAsLTQ1
-NTkyMTcxMiwxMjYyNDU4MTQ2LDQ5NDcxMDAwOV19
+eyJoaXN0b3J5IjpbMTM2MTAwMTU0MiwtMTAzNjEwMDQ5MCw1Nj
+cyODY3NDIsMjAzMzIwOTMwLDEwMTQ5MzYxMTYsLTEzNzIxNDY3
+MDIsLTE1MTA0MzUzODUsMTAxNjYyMDE2NSwtMjAyNDg3MDIzMi
+wtMjEzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4Mjg0MzcwLC00
+NTU5MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
 -->
