@@ -52,6 +52,7 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 -   쉽게 구현할 수 있는건 어렵게 해놓고, 어렵게 구현할 수 있는것은 쉽게 해놓았다.(RN 개발자 시점)
 -   Dart라는 언어를 처음부터 공부해야한다.
 <hr>
+출처: https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/
 
 위의 장단점이 존재한다.  하지만 여러 개발자들의 의견에 따르면 물론 React가 크로스 플랫폼 시장에서 1위를 하고 있는 것은 사실이나,  유지보수가 힘들고, 하드웨어 작업을 하기에는 다는 단점이 존재한다 하였다.
 
@@ -83,7 +84,8 @@ QR코드 인식후 실행
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjYyMDE2NSwtMjAyNDg3MDIzMiwtMj
-EzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4Mjg0MzcwLC00NTU5
-MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMDldfQ==
+eyJoaXN0b3J5IjpbLTE1MTA0MzUzODUsMTAxNjYyMDE2NSwtMj
+AyNDg3MDIzMiwtMjEzNDI3OTYyOCwtMTk2NTUxMzQxNiwtOTE4
+Mjg0MzcwLC00NTU5MjE3MTIsMTI2MjQ1ODE0Niw0OTQ3MTAwMD
+ldfQ==
 -->
