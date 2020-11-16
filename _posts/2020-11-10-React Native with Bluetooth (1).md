@@ -55,8 +55,8 @@ last_modified_at: 2020-11-10T12:00:00-05:00
 출처: https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/
 
 위처럼 장단점이 존재한다. 먼저, 만들고자 하는 소프트웨어가 센서 데이터를 블루투스를 통해서 핸드폰에 데이터를 받고, 이것을 서버에 넘기는것이다.
-React의 경우 버전이 바뀔수록 라이브러리간 호환성으로 인해 유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재하다는 단점이 존재하지만 점유율 1위로 가장 높고 Javascript 기반이기 때문에 Front-end는 react.js, backe-end는 node.js, 앱은 reac
-하지만, 한편으론 Reac
+React의 경우 버전이 바뀔수록 라이브러리간 호환성으로 인해 유지보수가 힘들고, 하드웨어 작업을 하기에는 문제가 존재하다는 단점이 존재하지만 Faceboock의 지원에 점유율 1위로 가장 높고 Javascript 기반이기 때문에 Front-end는 react.js, backe-end는 node.js, 앱은 react-native로 이용할 수가 있다.
+Flutter의 경우 Google의 지원을 받고 있는
  
 
 <details>
@@ -104,7 +104,7 @@ https://bigstar-vlog.tistory.com/66
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMzM5ODg0LDIwMzMyMDkzMCwxMDE0OT
+eyJoaXN0b3J5IjpbNTY3Mjg2NzQyLDIwMzMyMDkzMCwxMDE0OT
 M2MTE2LC0xMzcyMTQ2NzAyLC0xNTEwNDM1Mzg1LDEwMTY2MjAx
 NjUsLTIwMjQ4NzAyMzIsLTIxMzQyNzk2MjgsLTE5NjU1MTM0MT
 YsLTkxODI4NDM3MCwtNDU1OTIxNzEyLDEyNjI0NTgxNDYsNDk0
